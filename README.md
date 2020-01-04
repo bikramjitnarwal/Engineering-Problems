@@ -1,4 +1,6 @@
 # Engineering-Problems
+DO NOT COPY
+
 All labs and projects were made with the use of Matlab. They were made for MAT188 (Linear Algebra) at the University of Toronto. 
 
 Here are some concepts that are incorporated in the labs:
